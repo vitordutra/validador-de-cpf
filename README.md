@@ -7,7 +7,7 @@
 
 ## 🧐 Sobre
 
-Este validador de CPF foi construido com uma interface usando o framework CSS [Bootstrap](https://getbootstrap.com/) e usando lógica de programação para programar a regra de negócio da validação de um CPF usando JavaScript
+Este validador de CPF foi construido com uma interface usando o framework CSS [Bootstrap](https://getbootstrap.com/) e com a regra de negócio para validação do CPF escrita em JavaScript.
 
 ## 🤖 Algoritmo
 O CPF é formado por 11 dígitos numéricos que seguem a máscara "###.###.###-##", a verificação do CPF acontece utilizando os 9 primeiros dígitos e, com um cálculo simples, verificando se o resultado corresponde aos dois últimos dígitos (depois do sinal "-").
