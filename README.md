@@ -1,5 +1,10 @@
 # Validador de CPF
 
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=512px height=390px src="https://nimb.ws/h2CpcQ" alt="Project logo"></a>
+</p>
+
 ## 🧐 Sobre
 
 Este validador de CPF foi construido com uma interface usando o framework CSS [Bootstrap](https://getbootstrap.com/) e usando lógica de programação para programar a regra de negócio da validação de um CPF usando JavaScript
