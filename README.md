@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=512px height=390px src="https://nimb.ws/h2CpcQ" alt="Project logo"></a>
+ <img width=512px height=390px src="https://ik.imagekit.io/nfbjje2exl/validador-cpf_GYoQsBZopi.png" alt="Screenshot do Validador de CPF"></a>
 </p>
 
 ## 🧐 Sobre
